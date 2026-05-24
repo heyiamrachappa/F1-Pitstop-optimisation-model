@@ -4,6 +4,11 @@ An AI-powered Formula 1 race strategy analysis project that predicts and simulat
 
 ---
 
+## 📌 How to Run
+1.Download "ipynb" File.
+2.Open it in Google Collab
+3.Go-ahead and Run
+
 ## 📌 Overview
 
 This project focuses on analyzing Formula 1 race and pit stop data to:
